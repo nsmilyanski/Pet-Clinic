@@ -15,9 +15,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Map;
 
-/**
- * Created by jt on 2018-09-27.
- */
+
 @Controller
 public class VisitController {
 
