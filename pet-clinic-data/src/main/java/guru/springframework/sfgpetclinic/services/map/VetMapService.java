@@ -9,9 +9,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
-/**
- * Created by jt on 7/21/18.
- */
 @Service
 @Profile({"default", "map"})
 public class VetMapService extends AbstractMapService<Vet, Long> implements VetService {
